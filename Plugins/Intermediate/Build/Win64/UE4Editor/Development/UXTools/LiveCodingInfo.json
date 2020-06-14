@@ -1,0 +1,59 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UXTools.cpp.obj": [
+			"UxtFollowComponent.cpp.obj",
+			"UxtBoundingBoxManipulatorComponent.cpp.obj",
+			"UxtBoundingBoxManipulatorPresets.cpp.obj",
+			"UxtFarBeamComponent.cpp.obj",
+			"UxtFarCursorComponent.cpp.obj",
+			"UxtFingerCursorComponent.cpp.obj",
+			"UxtPressableButtonComponent.cpp.obj",
+			"UxtRingCursorComponent.cpp.obj",
+			"IUxtHandTracker.cpp.obj",
+			"UxtHandTrackingFunctionLibrary.cpp.obj",
+			"UxtFarPointerComponent.cpp.obj",
+			"UxtHandInteractionActor.cpp.obj",
+			"UxtNearPointerComponent.cpp.obj",
+			"UxtPointerFocus.cpp.obj",
+			"UxtManipulationMoveLogic.cpp.obj",
+			"UxtTwoHandRotateLogic.cpp.obj",
+			"UxtTwoHandScaleLogic.cpp.obj",
+			"UxtGenericManipulatorComponent.cpp.obj",
+			"UxtGrabTarget.cpp.obj",
+			"UxtGrabTargetComponent.cpp.obj",
+			"UxtInteractionUtils.cpp.obj",
+			"UxtManipulatorComponentBase.cpp.obj",
+			"UxtPokeTarget.cpp.obj",
+			"UxtFunctionLibrary.cpp.obj",
+			"UxtMathUtilsFunctionLibrary.cpp.obj",
+			"UXTools.cpp.obj"
+		],
+		"Module.UXTools.gen.1_of_2.cpp.obj": [
+			"IUxtHandTracker.gen.cpp.obj",
+			"UxtBoundingBoxManipulatorComponent.gen.cpp.obj",
+			"UxtBoundingBoxManipulatorPresets.gen.cpp.obj",
+			"UxtFarBeamComponent.gen.cpp.obj",
+			"UxtFarCursorComponent.gen.cpp.obj",
+			"UxtFarPointerComponent.gen.cpp.obj",
+			"UxtFarTarget.gen.cpp.obj",
+			"UxtFingerCursorComponent.gen.cpp.obj",
+			"UxtFollowComponent.gen.cpp.obj",
+			"UxtFunctionLibrary.gen.cpp.obj",
+			"UxtGenericManipulatorComponent.gen.cpp.obj",
+			"UxtGrabTarget.gen.cpp.obj",
+			"UxtGrabTargetComponent.gen.cpp.obj"
+		],
+		"Module.UXTools.gen.2_of_2.cpp.obj": [
+			"UxtHandInteractionActor.gen.cpp.obj",
+			"UxtHandTrackingFunctionLibrary.gen.cpp.obj",
+			"UxtManipulatorComponentBase.gen.cpp.obj",
+			"UxtMathUtilsFunctionLibrary.gen.cpp.obj",
+			"UxtNearPointerComponent.gen.cpp.obj",
+			"UXTools.init.gen.cpp.obj",
+			"UxtPokeTarget.gen.cpp.obj",
+			"UxtPressableButtonComponent.gen.cpp.obj",
+			"UxtRingCursorComponent.gen.cpp.obj"
+		]
+	}
+}

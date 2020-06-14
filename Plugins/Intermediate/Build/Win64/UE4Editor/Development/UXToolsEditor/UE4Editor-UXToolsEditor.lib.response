@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UXToolsEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\MixedReality-UXTools-Unreal\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXToolsEditor\Module.UXToolsEditor.cpp.obj"
+"D:\MixedReality-UXTools-Unreal\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXToolsEditor\Default.rc2.res"
+/OUT:"D:\MixedReality-UXTools-Unreal\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXToolsEditor\UE4Editor-UXToolsEditor.lib"
+/INCLUDE:IMPLEMENT_MODULE_UXToolsEditor

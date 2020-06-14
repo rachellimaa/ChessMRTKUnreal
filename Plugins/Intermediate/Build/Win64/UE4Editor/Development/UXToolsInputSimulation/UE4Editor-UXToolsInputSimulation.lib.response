@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UXToolsInputSimulation.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\MixedReality-UXTools-Unreal\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXToolsInputSimulation\Module.UXToolsInputSimulation.cpp.obj"
+"D:\MixedReality-UXTools-Unreal\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXToolsInputSimulation\Module.UXToolsInputSimulation.gen.cpp.obj"
+"D:\MixedReality-UXTools-Unreal\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXToolsInputSimulation\Default.rc2.res"
+/OUT:"D:\MixedReality-UXTools-Unreal\UXToolsGame\Plugins\UXTools\Intermediate\Build\Win64\UE4Editor\Development\UXToolsInputSimulation\UE4Editor-UXToolsInputSimulation.lib"
+/INCLUDE:IMPLEMENT_MODULE_UXToolsInputSimulation

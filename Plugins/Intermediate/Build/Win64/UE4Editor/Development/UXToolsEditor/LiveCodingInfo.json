@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UXToolsEditor.cpp.obj": [
+			"UXToolsEditor.cpp.obj",
+			"UxtPressableButtonComponentVisualizer.cpp.obj"
+		]
+	}
+}

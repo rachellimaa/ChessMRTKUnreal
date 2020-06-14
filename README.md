@@ -1,2 +1,3 @@
-# SampleProjectUnrealMRTK
-One simple project in Unreal with MRTK Toolkit
+# Board and Kings of Chess using MRTK for Unreal
+
+A project with basic interactions from MRTK for Unreal
